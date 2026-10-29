@@ -5,7 +5,7 @@ This is an independent project I've made to practice my analytical skills using 
 
 **Analysis 1:** BSR ML Analysis examines employee satisfaction, engagement, and retention to understand organizational success. This is a Python project that used a 1,500 sample to see how interventions in sleep, exercise and smoke cessation affected employees. 
 
-Tools and Methods: Python | Pandas | NumPy | Matplotlib | Seaborn | SciPy | Scikit-learn
+Tools and Methods: Python | Pandas | NumPy | Matplotlib | Seaborn | SciPy | Scikit-learn | Machine Learning | Random Trees Analysis | Data Prepping
 
 **Analysis 2:** NFL 2025 Descriptive Analysis explores relationships between environmental conditions, stadium characteristics, and NFL game outcomes using a dataset of 265 games.
 
