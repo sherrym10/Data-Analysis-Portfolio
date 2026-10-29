@@ -1,5 +1,6 @@
-**##Sherry Madabhushi, MS in Business Analytics at Georgetown University
-**
+**Sherry Madabhushi, MS in Business Analytics at Georgetown University**
+
+
 This is an independent project I've made to practice my analytical skills using various projects. 
 
 **Analysis 1:** BSR ML Analysis examines employee satisfaction, engagement, and retention to understand organizational success. This is a Python project that used a 1,500 sample to see how interventions in sleep, exercise and smoke cessation affected employees. 
