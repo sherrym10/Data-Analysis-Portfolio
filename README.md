@@ -11,4 +11,6 @@ Tools and Methods: Python | Pandas | NumPy | Matplotlib | Seaborn | SciPy | Scik
 
 Tools and Methods: Python | Pandas | NumPy | Matplotlib | Seaborn | Exploratory Data Analysis (EDA) | Correlation Analysis
 
-This GitHub repository is intended to be an ever-expanding place to practice everything I am learning within my Master's program.
+This GitHub repository is intended to be an ever-expanding place to practice the skills I am learning within my Master's program.
+
+I am also attaching some papers from my undergraduate degrees in Economics and Political Science to showcase my analytical work. 
